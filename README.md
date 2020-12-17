@@ -1,4 +1,4 @@
-# here is my project involving 
+# Here is my project involving 
 * an atmega32u4 (or similar)
 * 2x pca9685 
 * 24 servos
@@ -16,4 +16,4 @@ The pcb layout will have to factor many things. Such as how noisy or how high (o
 * then need to decide on the decoupling configuration
 * another mosfet for additional current?
 
-Most of these questions have already been answered by myself, but I have yet to update a design.
+Most of these questions have already been answered by myself, but I have yet to update a design. I like the boards that are usually paired with the atmega/tiny etc, but I wanted a fully custom design. One that fits my requirements exactly, that doesnt suffer unnecessary powerloss, board space, trace length and a gerber file that others could send off to the factory and replicate.
